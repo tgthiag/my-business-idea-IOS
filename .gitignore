@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+GoogleService-Info.plist
+.swiftpm/
+Package.resolved
+MyBusinessIdea.xcodeproj/
