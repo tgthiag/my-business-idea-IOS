@@ -23,7 +23,7 @@ targets:
     resources:
       - MyBusinessIdea/Resources
     info:
-      path: MyBusinessIdea/Resources/Info.plist
+      path: MyBusinessIdea/Supporting/Info.plist
       properties:
         UILaunchScreen: {}
         UIApplicationSupportsIndirectInputEvents: true

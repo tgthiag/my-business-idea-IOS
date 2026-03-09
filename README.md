@@ -47,7 +47,7 @@ open MyBusinessIdea.xcodeproj
 2. Replace the placeholder bundle identifier if needed.
 3. Add `GoogleService-Info.plist`.
 4. Replace the placeholder AdMob app id in `Info.plist`.
-5. Create the App Store subscriptions and update product ids in `MyBusinessIdea/Core/Config/AppConfig.swift`.
+5. Create the App Store subscriptions and update product ids in `MyBusinessIdea/Supporting/AppConfig.swift`.
 6. Enable Push Notifications if you later move from local notifications to remote notifications.
 
 Detailed finish steps are in `docs/setup_on_mac.md`.

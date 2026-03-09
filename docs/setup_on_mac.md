@@ -26,7 +26,7 @@ The app is coded to skip Firebase bootstrap when the plist is missing, so the re
 
 ## 4. AdMob
 
-- Replace `GADApplicationIdentifier` in `MyBusinessIdea/Resources/Info.plist`
+- Replace `GADApplicationIdentifier` in `MyBusinessIdea/Supporting/Info.plist`
 - Create iOS ad units for:
   - inline banner on Home
   - inline banner before action plan
@@ -35,7 +35,7 @@ The app is coded to skip Firebase bootstrap when the plist is missing, so the re
 
 ## 5. StoreKit / App Store Connect
 
-Set real product ids in `MyBusinessIdea/Core/Config/AppConfig.swift`:
+Set real product ids in `MyBusinessIdea/Supporting/AppConfig.swift`:
 
 - monthly premium
 - yearly premium
